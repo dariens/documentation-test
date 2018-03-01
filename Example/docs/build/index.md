@@ -14,3 +14,10 @@ func(x)
 
 returns double the number `x` plus `1`.
 
+#Examples
+
+```julia-repl
+julia> a = func(5)
+11
+```
+
