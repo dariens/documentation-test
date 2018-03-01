@@ -23,7 +23,10 @@ returns tripple the number `x` plus `1`
 
 #Examples
 ```jldoctest
-julia> func2(8)
+func2(8)
+
+# output
+
 25
 ```
 """

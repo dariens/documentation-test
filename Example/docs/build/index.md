@@ -36,8 +36,11 @@ returns tripple the number `x` plus `1`
 
 #Examples
 
-```julia-repl
-julia> func2(8)
+```julia
+func2(8)
+
+# output
+
 25
 ```
 
